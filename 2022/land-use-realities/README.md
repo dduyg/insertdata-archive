@@ -1,6 +1,6 @@
 # Land Use Realities
 
-<img align="left" width="350" src="/dataviz-archive/land-use-realities/20220520_LandUseRealities.jpg" />
+<img align="left" width="350" src="/2022/land-use-realities/20220520_LandUseRealities.jpg" />
 
 A mere 1% of the world’s habitable land is human built-up urban area which includes cities, towns, villages, roads and other human infrastructure. While agriculture takes up half of the world’s habitable land.
 
