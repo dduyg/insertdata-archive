@@ -1,4 +1,4 @@
-# 𝐃𝐚𝐭𝐚 𝐕𝐢𝐳 𝐀𝐫𝐜𝐡𝐢𝐯𝐞
+# Data Viz Archive
 
 
 <h3><samp> An archive of my data visualizations on: </samp></h3>
