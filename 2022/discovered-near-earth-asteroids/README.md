@@ -1,6 +1,6 @@
 # Discovered near-earth asteroids
 
-<img align="left" width="350" src="/dataviz-archive/discovered-near-earth-asteroids/discovered-near-earth-asteroids.png" />
+<img align="left" width="350" src="/2022/discovered-near-earth-asteroids/discovered-near-earth-asteroids.png" />
 
 Since humans began to explore the world beyond the earth, the fear of the unknown universe has never stopped. From Armageddon to Don’t look up, this kind of fear is continuously visualized in films, and it feels like one day there must be an asteroid flying directly towards our planet and ruining everything.
 
