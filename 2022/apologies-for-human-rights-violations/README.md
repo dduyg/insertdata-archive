@@ -1,7 +1,7 @@
 <h1><samp>Apologies for Human Rights Violations</samp></h1>
 
-<p float="left"> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRV-1.png" width="150" /> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRVJapan-1.png" width="150" /> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRVGermany-2.png" width="150" /> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRV-UK3.png" width="150" /> </p>
-<p float="left"> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRVUnitedStates-4.png" width="150" /> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRVCanada-5.png" width="150" /> <img src="/dataviz-archive/apologies-for-human-rights-violations/ApologiesForHRVNetherlands-6.png" width="150" /> </p>
+<p float="left"> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRV-1.png" width="150" /> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRVJapan-1.png" width="150" /> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRVGermany-2.png" width="150" /> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRV-UK3.png" width="150" /> </p>
+<p float="left"> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRVUnitedStates-4.png" width="150" /> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRVCanada-5.png" width="150" /> <img src="/2022/apologies-for-human-rights-violations/ApologiesForHRVNetherlands-6.png" width="150" /> </p>
 
 While apologies between individuals are quite complex, political apologies are even more difficult. Many countries struggle with how to deal with past wrong doings. 
 
